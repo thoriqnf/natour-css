@@ -1,0 +1,23 @@
+{
+  "name": "natour-css",
+  "version": "1.0.0",
+  "description": "web design about natural tour pure using just html, css and sass",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoriqnf/natour-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thoriqnf/natour-css/issues"
+  },
+  "homepage": "https://github.com/thoriqnf/natour-css#readme"
+}
