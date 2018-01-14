@@ -1,7 +1,8 @@
 {
   "name": "natour-css",
   "version": "1.0.0",
-  "description": "web design about natural tour pure using just html, css and sass",
+  "description":
+    "web design about natural tour pure using just html, css and sass",
   "main": "index.js",
   "dependencies": {
     "jquery": "^3.2.1"
@@ -10,7 +11,7 @@
     "node-sass": "^4.7.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
   "repository": {
     "type": "git",
