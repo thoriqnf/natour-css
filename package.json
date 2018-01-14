@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "web design about natural tour pure using just html, css and sass",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
   "devDependencies": {
     "node-sass": "^4.7.2"
   },
